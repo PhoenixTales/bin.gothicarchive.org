@@ -1,2 +1,2 @@
-# downloads.gothicarchive.org
-non-media files of gothicarchive.org
+# bin.gothicarchive.org
+downloadable files of gothicarchive.org (any formats that cannot be opened in a web browser)
