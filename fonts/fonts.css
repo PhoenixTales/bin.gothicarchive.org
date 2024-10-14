@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "Flat Brush";
-  src: url("tex-gyre-chorus.otf") format("opentype");
+  src: url("flat-brush.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: block;
